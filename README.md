@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on zhejiang ocean university
-- 🌱 I’m currently learning zhejiang ocean university
+- 🔭 I’m currently working on zhejiang ocean university.
+- 🌱 I’m currently learning zhejiang ocean university.
 - 👯 I’m looking to collaborate on github devloper.
 - 🤔 I’m looking for help with Java spring wbe devlopment.
 - 💬 Ask me about Advanced website development/Java/Javascript.
